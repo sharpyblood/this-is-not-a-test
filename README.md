@@ -1,0 +1,3 @@
+- Watch and Learn from the same #crypto-trading thingies from algovibe. [[Learning]] MACD trading strat.
+- [[Learning]] about database and sqlalchemy for python.
+- [[Learning]] Leaned about asyncIO
